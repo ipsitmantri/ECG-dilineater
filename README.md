@@ -2,6 +2,8 @@
 
 This is the course project for the course EE338 - Digital Signal Processing that I did with my friends in a group. In the course mine was Group 1. The other members are [Shlok](https://shlokvaibhav.github.io/) and [Amol](https://www.linkedin.com/in/amol-g-shah/).
 
+Please refer to [this license](https://github.com/ShlokVaibhav/ECG-dilineater/blob/master/LICENSE) if you want to use the contents of this repository.
+
 ---
 ## Abstract
 The analysis of the ECG is a prominent problem in medical science, Most of the useful information
